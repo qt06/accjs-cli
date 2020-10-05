@@ -1,0 +1,36 @@
+{
+  "name": "accjs-cli",
+  "version": "1.0.3",
+  "description": "accjs tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "accjs": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qt06/accjs-cli.git"
+  },
+  "keywords": [
+    "accjs",
+    "generator",
+    "chrome",
+    "extension",
+    "tampermonkey"
+  ],
+  "author": "qt06",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qt06/accjs-cli/issues"
+  },
+  "homepage": "https://github.com/qt06/accjs-cli#readme",
+  "dependencies": {
+    "accjs-chrome-extension-template": "^1.0.3",
+    "chalk": "^4.1.0",
+    "inquirer": "^7.2.0",
+    "shelljs": "^0.8.4",
+    "yargs": "^15.3.1"
+  }
+}
