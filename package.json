@@ -29,7 +29,7 @@
   "dependencies": {
     "accjs-chrome-extension-template": "^1.0.3",
     "chalk": "^4.1.0",
-    "inquirer": "^7.2.0",
+    "inquirer": "^13.2.1",
     "shelljs": "^0.8.4",
     "yargs": "^15.3.1"
   }
